@@ -5,6 +5,9 @@
 ![s1](https://raw.githubusercontent.com/c4pt000/lenovo-biometric-improvement-concept/main/lenovo-improvement.png)
 
 
+also could use a sensor or a type of validation to make sure the circuit's IC sector isnt tampered with so the biometric fingerprint isnt stored and then retransmitted through the circuit, or a way to make sure the IC doesnt capture and store the biometric input
+
+
 poor man's patent
 D.Weinberg
 
